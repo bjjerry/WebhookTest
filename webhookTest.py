@@ -2,7 +2,7 @@
 # By JJ Berry and Corey Gillen
 # Use this for whatever you want!
 
-# Test comment please ingore
+# Test comment please ignore                                           
 
 import unittest
 from subprocess import call
